@@ -8,7 +8,7 @@ interface Isquare {
 const square:React.FC<Isquare> = (props) => {
   return (
     <div>
-        <span className='column__Style' >{props.state}</span>
+        <span className='column__Style' onClick={props.onClick} >{props.state}</span>
     </div>
   )
 }

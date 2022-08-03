@@ -10,8 +10,7 @@
 }
 
 .heading__Style{
-  margin-bottom: -150px;
-  margin-top: 70px;
+  margin-bottom: -210px;
 }
 
 .main__Body{
@@ -21,6 +20,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  margin-bottom: -150px;
 }
 
 .column__Style{
